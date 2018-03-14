@@ -17,3 +17,6 @@
 /web/bundles/
 /vendor
 /.idea
+/web/css
+/web/fonts
+/web/js
